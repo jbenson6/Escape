@@ -1,13 +1,21 @@
 {
 	"folders": [
 		{
+			"name": "Escape",
 			"path": "."
 		},
 		{
-			"path": "D:\\Applications\\UE_4.22"
+			"name": "UE4",
+			"path": "C:\\Program Files\\UE_4.24"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-vscode.csharp"
+		]
 	}
 }
